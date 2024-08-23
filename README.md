@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm K M RATUL HOSSAIN</h1>
 <h3 align="center">A passionate Computer Science Engeneer from BANGLADESH</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https://camp githubusercontent.com/8a9c71854d1987a0b488cal7b4ca6fb56e36.gif"> 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
 - 🌱 I’m currently learning **Cyber security**
 
